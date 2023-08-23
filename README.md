@@ -16,5 +16,10 @@ commit -am " " 로 하기(하기 전에 꼭 메모장 저장하고) 그리고 �
 1. clone : 로컬에 저장소가 없는 경우. 저장소 자체를 복사
 2. pull : 로컬에 연결된 저장소 있는 경우. 저장소 안에 있는 파일 내려받기
 
+## 충돌(conflict)시 해결 방법 ##
+1. 온라인 저장소와 로컬 저장소 내용이 다르므로 git pull origin main을 통해 당김
+2. git commit -am " " 작성
+3. git push -u origin main을 통해 온라인 저장소로 보냄
+
 
 

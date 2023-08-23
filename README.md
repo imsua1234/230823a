@@ -10,3 +10,5 @@ commit -am " " 로 하기(하기 전에 꼭 메모장 저장하고) 그리고 �
 ****
 ### gibhub에서 내려 받기 ###
 `$ git pull origin main`
+
+### clone과 pull 특징 ###

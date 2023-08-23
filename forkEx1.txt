@@ -1,4 +1,4 @@
 1. 해당 레파지토리 포크	
 2. git clone https://내주소.git
 3. 수정 후 commit
-4. git push -u origin master
+4. git push -u origin master(main)
